@@ -50,5 +50,5 @@ python table_html.py -file key.txt -cpu 19 -mem 20 -inv 21 -widget 1567
 
 The script will save a CSV and an HTML file of the data locally, and will post said HTML file into a LogicMonitor text widget to look like the following:
 
-![Optional Text](https://github.com/ianbloom/autoGoogleMaps/blob/master/readmePictures/Screen%20Shot%202018-04-06%20at%2010.52.57%20AM.png)
+![Optional Text](https://github.com/ianbloom/lm-reports-to-html-widget/blob/master/images/Screen%20Shot%202018-09-11%20at%204.11.41%20PM.png)
 
