@@ -1,0 +1,11 @@
+,Device,CPU_Instance,CPU_Min_30_Days,CPU_Max_30_Days,CPU_Average_30_Days,MEM_Instance,MEM_Min_30_Days,MEM_Max_30_Days,MEM_Average_30_Days,linux_os,system.deviceGroupId,system.deviceId,system.sysinfo
+0,Amazon EC2 SNMP,CPU Overview-Core Count: 1,0.15,18.02,0.32,NetSNMPMem,58.7,92.88,82.3,Ubuntu,1,1,Linux ip-172-31-30-13 4.4.0-1049-aws #58-Ubuntu SMP Fri Jan 12 23:17:09 UTC 2018 x86_64
+1,US-W2:firstEC2_i-0022dae54c02808aa#1,CPU Overview-Core Count: 1,0.15,24.65,0.35,NetSNMPMem,58.5,92.72,82.3,,121,32,Linux ip-172-31-30-13 4.4.0-1049-aws #58-Ubuntu SMP Fri Jan 12 23:17:09 UTC 2018 x86_64
+2,8.8.8.8,,,,,,,,,,2,35,
+3,ec2-54-244-207-95.us-west-2.compute.amazonaws.com,,,,,,,,,,"38,2",36,
+4,aws_test Account,,,,,,,,,,118,29,
+5,logicmon-test-bucket#1,,,,,,,,,,127,30,
+6,US-W2:vol-07b21f9548a3a5e0c#1,,,,,,,,,,120,31,
+7,US-W2:i-02c51df6dd270a2fb,,,,,,,,,,"121,2",37,
+8,US-W2:ws-7s1t5h3hh,,,,,,,,,,"151,145",34,
+9,US-W2:d-9267251868,,,,,,,,,,"151,149",33,
