@@ -40,3 +40,12 @@ This script takes five arguments:
 
 ## Example
 
+For my LogicMonitor account, I run the following:
+
+```
+python table_html.py -file key.txt -cpu 19 -mem 20 -inv 21 -widget 1567
+```
+
+## Result
+
+
