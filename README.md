@@ -19,6 +19,10 @@ sudo python setup.py install
 
 Included in this repo is an example key file (key.txt).  Replace the dummy values in this file with values corresponding to your API credentials.
 
+## Setup
+
+This script requires three reports.  One 'Device Metric Trends' report for CPU, one for memory, and a 'Device Inventory' report with as many device properties included as you like.  Make note of the IDs of these reports.
+
 ## Usage
 
 For information about the required variables, run the following:
@@ -33,4 +37,6 @@ This script takes five arguments:
 * _-mem_ : ID of a MEM Device Metric Trends Report
 * _-inv_ : ID of a Device Inventory Report
 * _-widget_ : ID of a text widget to post HTML table into
+
+## Example
 
