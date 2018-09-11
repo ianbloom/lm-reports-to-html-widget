@@ -28,8 +28,9 @@ python table_html.py -h
 ```
 
 This script takes five arguments:
-* '-file' : Path to file containing API credentials
-* '-cpu' : ID of a CPU Device Metric Trends Report
-* '-mem' : ID of a MEM Device Metric Trends Report
-* '-inv' : ID of a Device Inventory Report
-* '-widget' : ID of a text widget to post HTML table into
+* _-file_ : Path to file containing API credentials
+* _-cpu_ : ID of a CPU Device Metric Trends Report
+* _-mem_ : ID of a MEM Device Metric Trends Report
+* _-inv_ : ID of a Device Inventory Report
+* _-widget_ : ID of a text widget to post HTML table into
+
