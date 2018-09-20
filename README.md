@@ -51,6 +51,6 @@ If you'd like to schedule a recurring job to update the text widget, I encourage
 
 The result will be a ConnectWise configuration entry for each device in LogicMonitor.
 
-![Optional Text](https://github.com/ianbloom/lm-reports-to-html-widget/blob/master/images/Screen%20Shot%202018-09-11%20at%204.11.41%20PM.png)
+![Optional Text](https://github.com/ianbloom/connectwise_manage/blob/master/images/Screen%20Shot%202018-09-20%20at%2010.59.15%20AM.png)
 
 
